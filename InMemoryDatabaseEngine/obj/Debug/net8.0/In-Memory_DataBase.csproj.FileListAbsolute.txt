@@ -1,0 +1,5 @@
+C:\Users\Yeshiva\Desktop\In-Memory_DataBase\obj\Debug\net8.0\In-Memory_DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeshiva\Desktop\In-Memory_DataBase\obj\Debug\net8.0\In-Memory_DataBase.AssemblyInfoInputs.cache
+C:\Users\Yeshiva\Desktop\In-Memory_DataBase\obj\Debug\net8.0\In-Memory_DataBase.AssemblyInfo.cs
+C:\Users\Yeshiva\Desktop\In-Memory_DataBase\obj\Debug\net8.0\In-Memory_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Yeshiva\Desktop\In-Memory_DataBase\obj\Debug\net8.0\In-Memory_DataBase.sourcelink.json
